@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My first PHP script!";
+echo "Welcome to your first php app deployed on Openshift, Maryam";
 ?> 
 
 </body>
